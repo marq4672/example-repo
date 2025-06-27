@@ -10,3 +10,4 @@ Terminology
  - push
  - add - staging
  - commit
+ - rm
